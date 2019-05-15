@@ -6,11 +6,6 @@ description: This is just another page
 
 ## Welcome to another page
 
-_yay_
-
-[back](./)
-
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

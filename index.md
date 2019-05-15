@@ -4,7 +4,7 @@ title: Tự học lập trình
 description: Ghi chú về quá trình tự học lập trình
 ---
 
-
+[Tự học Java trong 7 ngày](./tu-hoc-java-trong-7-ngay/tong-quan.html).
 
 [Link to another page](./another-page.html).
 
