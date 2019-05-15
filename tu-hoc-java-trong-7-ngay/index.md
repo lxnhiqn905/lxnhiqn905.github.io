@@ -8,4 +8,4 @@ description: Tổng quan về quá trình tự học Java trong 7 ngày
 
 ## Tổng quan về quá trình tự học Java trong 7 ngày
 
-[Back to home](./)
+[Back to home](../)

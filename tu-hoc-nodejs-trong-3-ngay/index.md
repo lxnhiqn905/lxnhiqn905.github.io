@@ -8,4 +8,4 @@ description: Tổng quan về quá trình tự học NodeJS trong 3 ngày
 
 ## Tổng quan về quá trình tự học NodeJS trong 3 ngày
 
-[Back to home](./)
+[Back to home](../)
