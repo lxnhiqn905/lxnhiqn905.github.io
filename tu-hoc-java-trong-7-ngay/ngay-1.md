@@ -7,4 +7,4 @@ description: Nền tảng Java, JVM, cài đặt môi trường và viết chư�
 [Back](./)
 
 ## Ngày 1
-###: Nền tảng Java, JVM, cài đặt môi trường và viết chương trình Java đầu tiên
+### Nền tảng Java, JVM, cài đặt môi trường và viết chương trình Java đầu tiên
