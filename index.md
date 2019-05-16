@@ -16,3 +16,6 @@ description: Ghi chú về quá trình tự học lập trình
 
 Đây là trang cá nhân, ghi chú quá trình tự học lập trình, kiến thức trong trang này được biên dịch từ Guru99
 
+# About me
+[Link to about me](./about-me.md).
+
