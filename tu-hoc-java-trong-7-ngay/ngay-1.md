@@ -4,7 +4,15 @@ title: Ngày 1
 description: Nền tảng Java, JVM, cài đặt môi trường và viết chương trình Java đầu tiên
 ---
 
-[Back](./)
+Đầu tiên, cảm ơn bạn đã quan tâm đến khóa học Tự học Java trong 7 ngày
+Đây là ngày đầu tiên, trong bài này chúng ta sẽ cùng nhau đi qua 4 bài học.
 
-## Ngày 1
-### Nền tảng Java, JVM, cài đặt môi trường và viết chương trình Java đầu tiên
+Bài 1 - Giới thiệu về Java platform, chúng ta sẽ hiểu vì sao Java vừa được gọi là ngôn ngữ lập trình vừa được gọi là nền tảng.
+
+Bài 2 - Giới thiệu kiến trúc của JVM và cách mà nó làm việc.
+
+Bài 3 - Cài đặt Java 
+
+Bài 4 - Viết chương trình Java đầu tiên
+
+[Back](./)
