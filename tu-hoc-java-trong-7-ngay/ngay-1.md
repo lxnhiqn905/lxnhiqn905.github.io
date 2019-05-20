@@ -9,7 +9,7 @@ description: Nền tảng Java, JVM, cài đặt môi trường và viết chư�
 
 [Bài 1](../java/java-platform.md) - Giới thiệu về Java platform, chúng ta sẽ hiểu vì sao Java vừa được gọi là ngôn ngữ lập trình vừa được gọi là nền tảng.
 
-Bài 2 - Giới thiệu kiến trúc của JVM và cách mà nó làm việc.
+[Bài 2](../java/java-virtual-machine-jvm.md) - Giới thiệu kiến trúc của JVM và cách mà nó làm việc.
 
 Bài 3 - Cài đặt Java 
 
