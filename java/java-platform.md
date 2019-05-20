@@ -10,8 +10,8 @@ Java là ngôn ngữ lập trình và là một nền tảng để phát triển
 # Nền tảng Java là gì?
 Nền tảng Java - Java platform là tập hợp các chương trình mà giúp phát triển và chạy ứng dụng được viết bởi ngôn ngữ Java. Java platform bao gồm một trình thực thi, một trình biên dịch và một tập hợp các thư viện. Java là ngôn ngữ độc lập nền tảng. Nó không dành riêng cho bộ xử lý hay hệ điều hành nào.
 
-# Trình thực thi của Java - JVM - Java Virtual Machine
-(./images/java-platform-jvm.png)
+# Trình thực thi của Java - Java Virtual Machine
+![JVM - Java Virtual Machine](./images/java-platform-jvm.png)
 1. Các mã được viết bằng Java sẽ được lưu dưới dạng .java
 2. Để thực thi các file .java sẽ được trình biên dịch biên dịch thành các file .class. 
 3. File .class là file chứa các binary code, tuy nhiên các binary code này không được hiểu bởi một máy tính hay chương trình nào mà chỉ dành cho JVM - Java Virtual Machine

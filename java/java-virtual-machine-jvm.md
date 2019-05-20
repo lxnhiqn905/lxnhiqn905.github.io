@@ -17,4 +17,6 @@ JVM là một máy ảo cung cấp môi trường để chạy các chương tr�
 Đầu tiên, Java code sẽ được biên dịch thành mã bytecode, mã bytecode này sẽ được JVM biên dịch thành mã máy tương ứng với từng hệ điều hành cụ thể. Giữa máy tính và source code Java, mã bytecode Java là trung gian. JVM chịu trách nhiệm phân bổ nó vào bộ nhớ máy tính để thực thi.
 
 # Kiến trúc JVM
-(./images/java-virtual-machine-jvm.png)
+![Kiến trúc JVM](./images/java-virtual-machine-jvm.png)
+## 1. ClassLoader
+
