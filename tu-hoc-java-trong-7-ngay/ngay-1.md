@@ -11,8 +11,8 @@ description: Nền tảng Java, JVM, cài đặt môi trường và viết chư�
 
 [Bài 2](../java/java-virtual-machine-jvm.md) - Giới thiệu kiến trúc của JVM và cách mà nó làm việc.
 
-Bài 3 - Cài đặt Java 
+[Bài 3](../java/cai-dat-java) - Cài đặt Java 
 
-Bài 4 - Viết chương trình Java đầu tiên
+[Bài 4](../java/chuong-trinh-dau-tien-hello-world) - Viết chương trình Java đầu tiên
 
 [Back](./)
