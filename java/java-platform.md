@@ -21,3 +21,5 @@ Nền tảng Java - Java platform là tập hợp các chương trình mà giúp
 
 # Nền tảng Java độc lập như thế nào
 Java không biên dịch mã cho một máy tính cụ thể nào, thay vào đó Java sẽ có một quy chuẩn riêng biệt về mã code. Mã code sẽ được hiểu bởi JVM trên bất cứ hệ điều hành nào. Vì vậy, mã Java có thể chạy trên bất cứ hệ điều hành có cài đặt Java.  
+
+[Back](./)

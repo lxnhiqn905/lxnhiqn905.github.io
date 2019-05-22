@@ -49,3 +49,4 @@ The Native Method Interface is a programming framework. It allows Java code whic
 Native Method Libraries là một tập hợp các Thư viện riêng (C, C ++) cần thiết cho Công cụ thực thi.
 Native Libraries is a collection of the Native Libraries(C, C++) which are needed by the Execution Engine.
 
+[Back](./)
