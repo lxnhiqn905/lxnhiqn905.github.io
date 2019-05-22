@@ -28,4 +28,129 @@ Nội dung khóa học được biên dịch từ guru99.com.
    
 [What is Encapsulation?](./)
 
+### 3. Java Basic Language Constructs
+[Variables & Primitive Data Types](./)
+
+[How to Design A Class?](./)
+
+[Arrays](./)
+
+[How to Create Array of Objects in Java](./)
+
+[How to use ArrayList in Java](./)
+
+## 4. Java String Tutorial
+[Java Strings - Stuff You Must Know!](./)
+
+[String Length() Method](./)
+
+[String indexOf() Method](./)
+
+[String charAt() Method](./)
+
+[String compareTo() Method in Java](./)
+
+[String contains() Method](./)
+
+[String endsWith() Method](./)
+
+[Java String replace(), replaceFirst() and replaceAll() Method](./)
+
+[Java String toLowercase() and toUpperCase() Methods](./)
+
+[How to convert a Java String to Integer ?](./)
+
+[Working with HashMaps in Java](./)
+
+## 5. Most Misunderstood Topics!
+[Command Line Arguments](./)
+
+[“this” keyword](./)
+
+## 6. Java Memory Management
+[Garbage Collection](./)
+
+[Static variable](./)
+
+[Stack & Heap](./)
+
+## 7. Abstract Class & Interface
+[Inheritance in Java OOPs with Example](./)
+
+[Polymorphism in Java OOPs with Example](./)
+
+[Abstract Class Method](./)
+
+[Interface](./)
+
+[Interface vs Abstract Class in Java: What's the Difference?](./)
+
+## 8. Better Late than Never
+[Constructors](./)
+
+[Packages](./)
+
+## 9. Exception Handling
+[Try Catch in Java: Exception Handling](./)
+
+[User Defined Exceptions](./)
+
+[Exception Propagation](./)
+
+## 10. Conditional Loops
+[Interesting trick with For Loop – Using the Foreach loop in Java](./)
+
+[Java switch Statement](./)
+
+## 11. Advance Stuff!
+[How Maths become easy with Java](./)
+
+[How to Generate Random Number in Java](./)
+
+[How to use Date in Java](./)
+
+[Multithreading in Java](./)
+
+[Creating Graphical User Interface](./)
+
+[How to Split a String in Java](./)
+
+[How to use Buffered Reader in Java](./)
+
+[Learn Java Reflection API](./)
+
+[Java Program to Check Prime Number](./)
+
+[Convert JSON to XML using Gson and JAXB: JAVA Example](./)
+
+[Prime Number From 1 to 100 Program in Java](./)
+
+[How to Convert Char to String & String to char in Java](./)
+
+[Fibonacci Series Program in Java using Loops](./)
+
+[Java Program to Check Armstrong Number](./)
+
+[How to Reverse a String in Java using Recursion](./)
+
+[Check Palindrome Number Program in Java](./)
+
+[Bubble Sort Program in Java](./)
+
+[Insertion Sort Algorithm in Java Program with Example](./)
+
+[Selection Sorting in Java Program with Example](./)
+
+[20 Best Java Tools for Developers](./)
+
+[Groovy Script Tutorial for Beginners](./)
+
+[C++ Vs JAVA: What’s the Difference?](./)
+
+[Java vs C# - 10 Key Differences between Java and C#](./)
+
+[Top 100 Java Interview Questions & Answers](./)
+
+[JAVA Programming Tutorial for Beginners PDF](./)
+
 [Back to home](../)
