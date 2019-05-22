@@ -12,15 +12,20 @@ Khóa học này được thiết kế dành cho người mới bắt đầu ho�
 Nội dung khóa học được biên dịch từ guru99.com. 
 
 # Chương trình học
-## Chuẩn bị để bắt đầu với Java
+## 1. Chuẩn bị để bắt đầu với Java
    [Introduction to Java Platform](./java-platform.md)
+
    [Introduction to Java Virtual Machine (JVM)](./java-virtual-machine-jvm.md)
+   
    [Guide to Download & Install Java](./cai-dat-java.md)
+   
    [First Java Program](./chuong-trinh-dau-tien-hello-world.md)
 
-## Basics Concepts of Object Oriented Programming (OOPs)
+## 2. Basics Concepts of Object Oriented Programming (OOPs)
    [Evolution of Programming Languages](./)
+   
    [What is Data Abstraction in OOPS?](./)
+   
    [What is Encapsulation?](./)
 
 [Back to home](../)
