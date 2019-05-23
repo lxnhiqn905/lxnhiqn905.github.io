@@ -38,15 +38,28 @@ PC Registers lưu địa chỉ của JVM đang thực thi. Trong Java, mỗi thr
 Native Method Stacks lưu các hướng dẫn đến các thư viện liên kết, các thư viện này được viết bằng ngôn ngữ khác ngoài Java.
 
 ## 7. Execution Engine
-Nó là một kiểu phần mềm được dùng để kiểm tra phần cứng, phần mềm hoặc hệ thống.
-It is a type of software used to test hardware, software, or complete systems. The test execution engine never carries any information about the tested product.
+Nó là một kiểu phần mềm được dùng để thực thi mã bytecode Java
 
 ## 8. Native Method interface
-Native Method interface là một khung lập trình. Nó cho phép mã Java đang chạy trong JVM để gọi bởi các thư viện và ứng dụng gốc.
-The Native Method Interface is a programming framework. It allows Java code which is running in a JVM to call by libraries and native applications.
+Native Method interface là một khung chương trình. Nó cho phép mã Java đang chạy trong JVM gọi bởi các thư viện và ứng dụng gốc.
 
 ## 9. Native Method Libraries
 Native Method Libraries là một tập hợp các Thư viện riêng (C, C ++) cần thiết cho Công cụ thực thi.
-Native Libraries is a collection of the Native Libraries(C, C++) which are needed by the Execution Engine.
+
+# Java code được biên dịch và thực thi như thế nào
+Giả định có 3 file Java như sau:
+1. Method main dùng để khởi chạy đặt trong file a1.java
+2. Method  f1 được đặt trong file a2.java
+3. Method  f2 được đặt trong file a3.java
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-compiler.png)
+Trình biên dịch Java sẽ biên dịch 3 file .java thành 3 file .class tương ứng, trong file .class chứa bytecode được hiểu bởi JVM. Không có sự liên kết gì ở đây. Các file được biên dịch độc lập.
+
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-execute-1.png)
+JVM hiện diện ở RAM, trong quá trình thực thi nó sẽ dùng Class Loader để bố trí các file .class vào RAM. 
+
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-execute-2.png)
+Tiếp theo, bytecode trong file .class sẽ được biên dịch thành mã máy tương ứng để thực thi. Quá trình này gọi là Just-in-time compiler (JIT), đây là lý do tại sao Java tương đối chậm.
+
+NOTE: JIT or Just-in-time compiler là một phần của JVM, nó biên dịch bytecode của chức năng tương ứng cùng lúc thực thi.
 
 [Back](./)
