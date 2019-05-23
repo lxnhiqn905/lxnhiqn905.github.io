@@ -51,6 +51,7 @@ Giả định có 3 file Java như sau:
 1. Method main dùng để khởi chạy đặt trong file a1.java
 2. Method  f1 được đặt trong file a2.java
 3. Method  f2 được đặt trong file a3.java
+
 ![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-compiler.png)
 Trình biên dịch Java sẽ biên dịch 3 file .java thành 3 file .class tương ứng, trong file .class chứa bytecode được hiểu bởi JVM. Không có sự liên kết gì ở đây. Các file được biên dịch độc lập.
 
