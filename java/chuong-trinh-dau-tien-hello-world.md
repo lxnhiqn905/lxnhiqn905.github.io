@@ -15,6 +15,7 @@ Step 1: Mở Notepad và viết mã cho chương trình bạn như sau:
 - Định nghĩa một lớp A
 - Định nghĩa một phương thức chính **public static void main (String args[])**
 - Gõ tiếp **System.out.println("Hello world !")**, nó sẽ hiển thị lên màn hình dòng chữ **Hello world !**
+
 ```java
 class A {
     public static void main (String args[]) {
