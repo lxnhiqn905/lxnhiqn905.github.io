@@ -22,6 +22,7 @@ class A {
     }
 }
 ```
+
 Step 2: Lưu file chứa mã ở trên với tên **FirstProgram.java** trong thư mục **C:\workspace**
 
 Step 3: Mở Command Prompt và di chuyển đến thưc mục **C:\workspace**
