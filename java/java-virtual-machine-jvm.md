@@ -46,6 +46,28 @@ Native Method interface là một khung chương trình. Nó cho phép mã Java 
 ## 9. Native Method Libraries
 Native Method Libraries là một tập hợp các Thư viện riêng (C, C ++) cần thiết cho Công cụ thực thi.
 
+# Quy trình soạn thảo và thực thi mã phần mềm
+Thứ tự để soạn thảo và thực thi một phần mềm được định nghĩa như sau:
+1. Editor - Trình soạn thảo: Là nơi mà bạn nhập vào mã code chương trình của bạn, ví dụ như notepad là được dùng phổ biến.
+2. Compliler - Trình biên dịch: Chuyển đổi mã code chương trình bạn đã viết thành mã ngôn ngữ cấp cao, có thể hiểu được bởi máy tính.
+3. Linker - Trình liên kết: Dùng để phối hợp các file tham khảo khác nhau vào trong chương trình chính của bạn để chúng làm việc cùng nhau.
+4. Loader - Trình tải mã code: Là nơi mà tải mã code đã được biên dịch vào nơi có thể thực thi ví dụ như Ổ cứng, RAM. Việc này được thực hiện tự động khi thực thi chương trình.
+5. Execution - Trình thực thi: Trình thực thi mã code được xử lý bởi hệ điều hành & bộ xử lý của bạn. Nơi mà nó có thể thực hiện tác vụ mà bạn muốn.
+
+# C code được biên dịch và thực thi như thế nào
+Để hiểu quá trình biên dịch và thực thi của Java như thế nào, đầu tiên ta xem xét quá trình thực hiện biên dịch, liên kết và thực thi của C - Ngôn ngữ lập trình tạo ra nhiều phần mềm phổ biến .EXE
+
+Giả định có 3 file C như sau:
+1. Method main dùng để khởi chạy đặt trong file a1.c
+2. Method  f1 được đặt trong file a2.c
+3. Method  f2 được đặt trong file a3.c
+
+Trình biên dịch C sẽ biên dịch 3 file .c thành mã máy tương ứng với 3 file .obj.
+
+Bước tiếp theo tích hợp các file .obj vào một file .exe với sự hỗ trợ của trình liên kết. Trình liên kết sẽ tập hợp các file .obj lại với nhau và tạo ra file .exe.
+
+Đến khi chương trình thực thi, trình tải chương trình sẽ tải file .exe vào RAM và thực thi chúng.
+
 # Java code được biên dịch và thực thi như thế nào
 Giả định có 3 file Java như sau:
 1. Method main dùng để khởi chạy đặt trong file a1.java
@@ -62,5 +84,7 @@ JVM hiện diện ở RAM, trong quá trình thực thi nó sẽ dùng Class Loa
 Tiếp theo, bytecode trong file .class sẽ được biên dịch thành mã máy tương ứng để thực thi. Quá trình này gọi là Just-in-time compiler (JIT), đây là lý do tại sao Java tương đối chậm.
 
 NOTE: JIT or Just-in-time compiler là một phần của JVM, nó biên dịch bytecode của chức năng tương ứng cùng lúc thực thi.
+
+
 
 [Back](./)
