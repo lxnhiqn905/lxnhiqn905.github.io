@@ -62,9 +62,13 @@ Giả định có 3 file C như sau:
 2. Method  f1 được đặt trong file a2.c
 3. Method  f2 được đặt trong file a3.c
 
+![Java code được biên dịch và thực thi như thế nào](./images/c-compiler.png)
 Trình biên dịch C sẽ biên dịch 3 file .c thành mã máy tương ứng với 3 file .obj.
 
+![Java code được biên dịch và thực thi như thế nào](./images/c-linker.png)
 Bước tiếp theo tích hợp các file .obj vào một file .exe với sự hỗ trợ của trình liên kết. Trình liên kết sẽ tập hợp các file .obj lại với nhau và tạo ra file .exe.
+
+![Java code được biên dịch và thực thi như thế nào](./images/c-executor.png)
 
 Đến khi chương trình thực thi, trình tải chương trình sẽ tải file .exe vào RAM và thực thi chúng.
 
@@ -74,17 +78,45 @@ Giả định có 3 file Java như sau:
 2. Method  f1 được đặt trong file a2.java
 3. Method  f2 được đặt trong file a3.java
 
-![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-compiler.PNG)
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-compiler.png)
 Trình biên dịch Java sẽ biên dịch 3 file .java thành 3 file .class tương ứng, trong file .class chứa bytecode được hiểu bởi JVM. Không có sự liên kết gì ở đây. Các file được biên dịch độc lập.
 
-![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-execute-1.PNG)
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-execute-1.png)
 JVM hiện diện ở RAM, trong quá trình thực thi nó sẽ dùng Class Loader để bố trí các file .class vào RAM. 
 
-![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-execute-2.PNG)
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-execute-2.png)
 Tiếp theo, bytecode trong file .class sẽ được biên dịch thành mã máy tương ứng để thực thi. Quá trình này gọi là Just-in-time compiler (JIT), đây là lý do tại sao Java tương đối chậm.
 
 NOTE: JIT or Just-in-time compiler là một phần của JVM, nó biên dịch bytecode của chức năng tương ứng cùng lúc thực thi.
 
+# Vì sao Java vừa là ngôn ngữ biên dịch vừa là ngôn ngữ thông dịch
+Ngôn ngữ lập trình được chia thành các loại như sau:
+1. Ngôn ngữ bậc cao, ví dụ như Java, C++
+2. Ngôn ngữ bậc trung, ví dụ như C
+3. Ngôn ngữ bậc thấp, ví dụ như Assembly
+4. Cuối cùng là ngôn ngữ bậc thấp nhất, ngôn ngữ máy
 
+Một trình biên dịch là một chương trình thực hiện chuyển đổi một chương trình từ ngôn ngữ bậc này sang bậc khác. Ví dụ như chuyển đổi chương trình ngôn ngữ C++ thành ngôn ngữ máy.
+
+Với Java thì chuyển đổi chương trình từ ngôn ngữ bậc cao thành bytecode (Cũng là một loại mã máy) được hiểu bởi JVM
+
+Trình thông dịch là chương trình thực hiện chuyển đổi chương trình từ ngôn ngữ lập trình cấp bậc này thành ngôn ngữ lập trình khác cùng cấp độ. Ví dụ như chuyển đổi chương trình Java sang C++
+
+Trong Java, JIT chuyển đổi mã bytecode thành ngôn ngữ máy cùng cấp độ mà có thể hiểu được bởi máy tính.
+
+Tóm lại, Java là ngôn ngữ lập trình vừa biên dịch vừa thông dịch.
+
+# Vậy tại sao Java lại chậm
+Có 2 nguyên nhân khiến Java chậm:
+1. Dynamic Linking: Không giống như C, liên kết được thực hiện trong lúc chạy chương trình Java.
+2. Thông dịch Run-time: Chuyển đổi bytecode thành ngôn ngữ máy tương ứng thực hiện trong lúc chạy chương trình, nó khiến cho Java giảm tốc độ thực thi.
+
+Tuy nhiên, phiên bản mới nhất của Java đã cải thiện được tốc độ thực thi chương trình ở mức độ lớn.
+
+# Tổng kết
+- JVM là một máy ảo chứa bytecode Java, nó thực hiện chuyển đổi bytecode thành mã mãy tương ứng để thực thi.
+- Trong JVM, mã Java được biên dịch thành bytecode, bytecode này sẽ được thông dịch thành ngôn ngữ máy trên nhiều máy khác nhau
+- JIT là một phần của JVM, nó được sử dụng để tăng tốc thời gian thực thi chương trình.
+- So sánh với các các trình biên dịch mã máy khác, Java có thể thực thi chậm hơn.
 
 [Back](./)
