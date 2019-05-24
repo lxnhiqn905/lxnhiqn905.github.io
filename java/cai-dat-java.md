@@ -11,7 +11,7 @@ Dưới đây là các bước để cài đặt Java trên Windows. Chúng ta s
 
 Step 1: Tải và cài đặt [Chocolatey](https://chocolatey.org/)
 
-Step 2: Mở Command Platform với quyền Administrator
+Step 2: Mở Command Prompt với quyền Administrator
 
 Step 3: Gõ choco install jdk8
 
@@ -19,7 +19,7 @@ Step 4: Sau khi cài đặt hoàn tất thì gõ java -version để kiểm tra 
 
 # Hướng dẫn cài đặt Eclipse - Dùng để viết mã Java
 
-Step 5: Mở Command Platform với quyền administrator
+Step 5: Mở Command Prompt với quyền administrator
 
 Step 6: Gõ choco install eclipse
 
