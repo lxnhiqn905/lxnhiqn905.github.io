@@ -52,13 +52,13 @@ Giả định có 3 file Java như sau:
 2. Method  f1 được đặt trong file a2.java
 3. Method  f2 được đặt trong file a3.java
 
-![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-compiler.png)
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-compiler.PNG)
 Trình biên dịch Java sẽ biên dịch 3 file .java thành 3 file .class tương ứng, trong file .class chứa bytecode được hiểu bởi JVM. Không có sự liên kết gì ở đây. Các file được biên dịch độc lập.
 
-![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-execute-1.png)
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-execute-1.PNG)
 JVM hiện diện ở RAM, trong quá trình thực thi nó sẽ dùng Class Loader để bố trí các file .class vào RAM. 
 
-![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-execute-2.png)
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-execute-2.PNG)
 Tiếp theo, bytecode trong file .class sẽ được biên dịch thành mã máy tương ứng để thực thi. Quá trình này gọi là Just-in-time compiler (JIT), đây là lý do tại sao Java tương đối chậm.
 
 NOTE: JIT or Just-in-time compiler là một phần của JVM, nó biên dịch bytecode của chức năng tương ứng cùng lúc thực thi.
