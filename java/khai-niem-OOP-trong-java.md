@@ -58,11 +58,38 @@ Giả sử bạn muốn tạo một phần mềm ngân hàng với các chức n
 ## Ngôn ngữ lập trình không cấu trúc
 ![Ngôn ngữ lập trình không cấu trúc](./images/javaoops-khong-cau-truc.png)
 
+Cùng là một hoạt động Nạp tiền, rút tiền hay kiểm tra số dư nào, nhưng nếu nó được thực hiện nhiều lần thì bạn đều phải sử dụng đoạn code đó lặp lại rất nhiều lần.
+
 ## Ngôn ngữ lập trình có cấu trúc
 ![Ngôn ngữ lập trình có cấu trúc](./images/javaoops-co-cau-truc.png)
+
+Với lập trình có cấu trúc, bạn tổ chức các đoạn mã lặp đi lặp lại nhiều lần vào các function - ở đây là đoạn mã thể hiện cho hoạt động Kiểm tra số dư. Bạn chỉ cần gọi nó khi nào cần thực hiện hoạt động Kiểm tra số dư thay vì phải viết lại đoạn mã như ở **Ngôn ngữ lập trình không cấu trúc**
 
 ## Ngôn ngữ lập trình hướng đối tượng
 ![Ngôn ngữ lập trình hướng đối tượng](./images/javaoops-oops.png)
 
+Trong chương trình của chúng ta, chúng ta xử lý dữ liệu và thực hiện những hành động đặc biệt trên dữ liệu đó.
+Thực tế, có dữ liệu và thực hiện hành động trên dữ liệu đó là đặc trưng rất cơ bản trong bất cứ phần mềm nào.
+Các chuyên gia về Chương trình phần mềm đã nghĩ đến việc kế hợp dữ liệu và hoạt động. Vì thế, OOP ra đời.
+
+Dưới đây là đoạn code ví dụ trong OOP, chúng có một số dữ liệu(Số tài khoản, số dư) và thực hiện hoạt động(Hiển thị số dư) trên dữ liệu đó.
+```java
+  Class Account{
+    int account_number;
+    int account_balance;
+  public void showdata(){
+    system.out.println(“Account Number”+account_number)
+    system.outprintln(“Account Balance”+ account_balance)
+  }
+}
+```
+
+Kết hợp dữ liệu và hành động, chúng ra sẽ có nhiều lợi thế so với **Ngôn ngữ lập trình có cấu trúc**
+- Abtraction
+- Encapsulation
+- Inheritance
+- Polymorphism
+
+Chúng ta sẽ cùng nhau thảo luận các vấn đề trên ở các hướng dẫn tiếp theo.
 
 [Back](./)
