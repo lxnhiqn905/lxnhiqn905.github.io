@@ -26,7 +26,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
    
 [What is Data Abstraction in OOPS?](./khai-niem-abstraction-trong-OOP.md)
    
-[What is Encapsulation?](./)
+[What is Encapsulation?](./khai-niem-encapsulation-trong-OOP.md)
 
 ### 3. Java Basic Language Constructs
 [Variables & Primitive Data Types](./)
