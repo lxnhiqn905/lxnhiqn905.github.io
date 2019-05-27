@@ -118,16 +118,16 @@ char (2 bytes)
 boolean (1 byte) (true/false)
 ```
 ### Java data type
-| Data Type	   | Default Value	   | Default size
-|:-------------|:------------------|:--------------|
-| byte	       | 0	               | 1 byte
-| short	       | 0		           | 2 bytes
-| int	       | 0	           	   | 4 bytes
-| long	       | 0L		           | 8 bytes
-| float	       | 0.0f		       | 4 bytes
-| double	   | 0.0d		       | 8 bytes
-| boolean	   | false	           | 1 bit
-| char	       | '\u0000'		   | 2 bytes
+| **Data Type**| **Default Value** | **Default size** |
+|:-------------|:------------------|:-----------------|
+| byte	       | 0	               | 1 byte           |
+| short	       | 0		           | 2 bytes          |
+| int	       | 0	           	   | 4 bytes          |
+| long	       | 0L		           | 8 bytes          |
+| float	       | 0.0f		       | 4 bytes          |
+| double	   | 0.0d		       | 8 bytes          |
+| boolean	   | false	           | 1 bit            |
+| char	       | '\u0000'		   | 2 bytes          |
 
 ### Những điểm cần nhớ
 - Tất cả các loại dữ liệu số được gán giá trị

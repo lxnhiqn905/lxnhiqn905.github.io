@@ -35,30 +35,20 @@ Một method mà không có phần xử lý chi tiết được gọi là một 
 - Nếu một class thông thường được mở rộng từ một abstract class thì class đó cần phải triền khai tất cả các abstract method ở abstract class cha.
 
 # Khác nhau giữa Trừu tượng hóa và Đóng gói
-- Abstraction xử lý vấn đề ở mức thiết kế.
-- Đóng gói xử lý vấn đề ở mức triển khai.
-
-- Abstraction là về ẩn những chi tiết không mong muốn và hiển thị những thông tin cần thiết nhất.
-- Đóng gói nghĩa là ẩn code và dữ liệu vào trong một đơn vị.
-
-- Abstraction cho phép tập trung vào những gì mà đối tượng cần phải có nhất.
-- Đóng gói nghĩa là ẩn những chi tiết bên trong và xử lý logic làm thế nào mà một đối tượng có thể làm gì đó vì lý do bảo mật
+| **Trừu tượng hóa**| **Đóng gói** |
+|:-------------|:------------------|
+| Abstraction xử lý vấn đề ở mức thiết kế.| Đóng gói xử lý vấn đề ở mức triển khai.|
+| Abstraction là về ẩn những chi tiết không mong muốn và hiển thị những thông tin cần thiết nhất.| Đóng gói nghĩa là ẩn code và dữ liệu vào trong một đơn vị.|
+| Abstraction cho phép tập trung vào những gì mà đối tượng cần phải có nhất.| Đóng gói nghĩa là ẩn những chi tiết bên trong và xử lý logic làm thế nào mà một đối tượng có thể làm gì đó vì lý do bảo mật|
 
 # Khác nhau giữa Trừu tượng hóa và Interface
-- Một abstract class có thể cả abstract method hoặc method thông thường
-- Interface thì chỉ có abstract method
-
-- Abstraction không hỗ trợ nhiều kế thừa
-- Interface hỗ trợ nhiều kế thừa
-
-- Abstraction có thể nhận xử lý chi tiết của Interface
-- Interface không thể nhận xử lý chi tiết của abstract class
-
-- Abstraction có thể có một protected và abstract public method
-- Interface chỉ có thể có public abstract method
-
-- Abstraction có thể có final, static hoặc final static biến với bất cứ khả năng truy cập nào
-- Interface chỉ có thể có public static final biến
+| **Trừu tượng hóa**| **Interface** |
+|:-------------|:------------------|
+| Một abstract class có thể cả abstract method hoặc method thông thường | Interface thì chỉ có abstract method|
+| Abstraction không hỗ trợ nhiều kế thừa | Interface hỗ trợ nhiều kế thừa|
+| Abstraction có thể nhận xử lý chi tiết của Interface| Interface không thể nhận xử lý chi tiết của abstract class|
+| Abstraction có thể có một protected và abstract public method| Interface chỉ có thể có public abstract method|
+| Abstraction có thể có final, static hoặc final static biến với bất cứ khả năng truy cập nào| Interface chỉ có thể có public static final biến|
 
 # Ưu điểm của Trừu tượng hóa
 - Lợi ích chính của một abstract class là nó cho phép bạn nhóm một số class liên quan như anh em
