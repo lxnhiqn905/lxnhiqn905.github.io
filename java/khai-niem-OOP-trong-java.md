@@ -68,9 +68,7 @@ Với lập trình có cấu trúc, bạn tổ chức các đoạn mã lặp đi
 ## Ngôn ngữ lập trình hướng đối tượng
 ![Ngôn ngữ lập trình hướng đối tượng](./images/javaoops-oops.png)
 
-Trong chương trình của chúng ta, chúng ta xử lý dữ liệu và thực hiện những hành động đặc biệt trên dữ liệu đó.
-Thực tế, có dữ liệu và thực hiện hành động trên dữ liệu đó là đặc trưng rất cơ bản trong bất cứ phần mềm nào.
-Các chuyên gia về Chương trình phần mềm đã nghĩ đến việc kế hợp dữ liệu và hoạt động. Vì thế, OOP ra đời.
+Trong chương trình của chúng ta, chúng ta xử lý dữ liệu và thực hiện những hành động đặc biệt trên dữ liệu đó. Thực tế, có dữ liệu và thực hiện hành động trên dữ liệu đó là đặc trưng rất cơ bản trong bất cứ phần mềm nào. Các chuyên gia về Chương trình phần mềm đã nghĩ đến việc kế hợp dữ liệu và hoạt động. Vì thế, OOP ra đời.
 
 Dưới đây là đoạn code ví dụ trong OOP, chúng có một số dữ liệu(Số tài khoản, số dư) và thực hiện hoạt động(Hiển thị số dư) trên dữ liệu đó.
 ```java
