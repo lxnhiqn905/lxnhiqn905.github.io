@@ -29,7 +29,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 [What is Encapsulation?](./khai-niem-encapsulation-trong-OOP.md)
 
 ### 3. Java Basic Language Constructs
-[Variables & Primitive Data Types](./)
+[Variables & Primitive Data Types](./bien-va-kieu-du-lieu-trong-java)
 
 [How to Design A Class?](./)
 
