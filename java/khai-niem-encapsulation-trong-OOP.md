@@ -30,26 +30,32 @@ class Account {
 Giả sử, một hacker đã có quyền để truy cập đến mã của tài khoản ngân hàng của bạn. Bây giờ, hacker ấy muốn nạp số tiền là -100 đô la vào trong tài khoản của bạn bằng 2 cách. Hãy xem phương pháp và cách tiếp cận của hacker.
 
 **Cách tiếp cận đầu tiên**: Hacker cố gắng để nạp một số tiền không hợp lệ(giả sử là -100) vào tài khoản của bạn bằng cách thao túng mã.
-![Đóng gói trong Java OOP với ví dụ](./)
+
+![Đóng gói trong Java OOP với ví dụ](./images/encapsulation_in_oops_1.png)
 
 Bây giờ, câu hỏi là "Nó có khả thi?". Hãy nghiên cứu.
 
 Thực tế, một biến trong một class đã được thiết lập là "private" như hiển thị bên dưới. Nó chỉ có thể được truy cập với phương thức được định nghĩa bên trong class. Không class hay object nào khác có thể truy cập nó.
-![Đóng gói trong Java OOP với ví dụ](./)
+
+![Đóng gói trong Java OOP với ví dụ](./images/encapsulation_in_oops_2.png)
 
 Nếu một dữ liệu thành viên là private, nó có nghĩa nó chỉ có thể được truy cập bên trong cùng class. Không một class nào bên ngoài có thể truy cập dữ liệu hoặc biến private của một class khác.
 
 Vậy, trong trường hợp của chúng ta, hacker không thể nạp tiền -100 vào tài khoản của bạn.
-![Đóng gói trong Java OOP với ví dụ](./)
+
+![Đóng gói trong Java OOP với ví dụ](./images/encapsulation_in_oops_3.png)
 
 **Cách tiếp cận thứ hai**: Cách tiếp cận đầu tiên của Hacker đã không thành công để nạp tiền vào tài khoản. Tiếp theo, anh ta cố gắng để thực hiện nạp một số tiền -100 bằng cách sử dụng phương thức "deposit"
-![Đóng gói trong Java OOP với ví dụ](./)
+
+![Đóng gói trong Java OOP với ví dụ](./images/encapsulation_in_oops_4.png)
 
 Nhưng phương thức đã có một kiểm tra cho giá trị âm. Vì vậy, lần tiếp cận thứ hai này cũng không thành công.
-![Đóng gói trong Java OOP với ví dụ](./)
+
+![Đóng gói trong Java OOP với ví dụ](./images/encapsulation_in_oops_5.png)
 
 Do đó, bạn không bao giờ để lộ dữ liệu của bạn ra bên ngoài. Điều này làm cho ứng dụng của bạn an toàn.
-![Đóng gói trong Java OOP với ví dụ](./)
+
+![Đóng gói trong Java OOP với ví dụ](./images/encapsulation_in_oops_6.png)
 
 Toàn bộ mã được đóng gói như một viên nang. Và bạn chỉ có thể giao tiếp thông qua các message truyền đi. Do đó đóng gói tên.
 
