@@ -14,6 +14,7 @@ Giả sử bạn muốn tạo một ứng dụng ngân hàng và bạn được 
 Nhưng không phải tất cả thông tin trên đều cần thiết để tạo một ứng dụng ngân hàng
 
 Vậy, bạn cần phải chọn chỉ những thông tin hữu ích cho ứng dụng ngân hàng của bạn từ một nhóm. Dữ liệu như tên, địa chỉ, thông tin thuế, là có ý nghĩa cho một ứng dụng ngân hàng.
+![Trừu tượng hóa trong Java là gì ? Học với ví dụ Java](./)
 
 Kể từ đây, chúng ta có thể lấy/xóa/chọn thông tin khách hàng từ một nhóm lớn hơn, quá trình này được gọi là Trừ tượng hóa.
 
