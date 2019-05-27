@@ -24,7 +24,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 ## 2. Basics Concepts of Object Oriented Programming (OOPs)
 [Evolution of Programming Languages](./khai-niem-OOP-trong-java.md)
    
-[What is Data Abstraction in OOPS?](./)
+[What is Data Abstraction in OOPS?](./khai-niem-abstraction-trong-OOP.md)
    
 [What is Encapsulation?](./)
 
