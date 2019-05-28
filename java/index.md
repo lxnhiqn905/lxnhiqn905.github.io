@@ -31,7 +31,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 ### 3. Java Basic Language Constructs
 [Variables & Primitive Data Types](./bien-va-kieu-du-lieu-trong-java)
 
-[How to Design A Class?](./)
+[How to Design A Class?](./class-va-object-trong-java-oop.md)
 
 [Arrays](./)
 
