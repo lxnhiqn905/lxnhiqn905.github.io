@@ -56,17 +56,17 @@ Giả sử bạn muốn tạo một phần mềm ngân hàng với các chức n
 - Kiểm tra số dư
 
 ## Ngôn ngữ lập trình không cấu trúc
-![Ngôn ngữ lập trình không cấu trúc](./images/javaoops-khong-cau-truc.png)
+![Ngôn ngữ lập trình không cấu trúc](./images/java-oops-concept-1.png)
 
 Cùng là một hoạt động Nạp tiền, rút tiền hay kiểm tra số dư nào, nhưng nếu nó được thực hiện nhiều lần thì bạn đều phải sử dụng đoạn code đó lặp lại rất nhiều lần.
 
 ## Ngôn ngữ lập trình có cấu trúc
-![Ngôn ngữ lập trình có cấu trúc](./images/javaoops-co-cau-truc.png)
+![Ngôn ngữ lập trình có cấu trúc](./images/java-oops-concept-2.png)
 
 Với lập trình có cấu trúc, bạn tổ chức các đoạn mã lặp đi lặp lại nhiều lần vào các function - ở đây là đoạn mã thể hiện cho hoạt động Kiểm tra số dư. Bạn chỉ cần gọi nó khi nào cần thực hiện hoạt động Kiểm tra số dư thay vì phải viết lại đoạn mã như ở **Ngôn ngữ lập trình không cấu trúc**
 
 ## Ngôn ngữ lập trình hướng đối tượng
-![Ngôn ngữ lập trình hướng đối tượng](./images/javaoops-oops.png)
+![Ngôn ngữ lập trình hướng đối tượng](./images/java-oops-concept-3.png)
 
 Trong chương trình của chúng ta, chúng ta xử lý dữ liệu và thực hiện những hành động đặc biệt trên dữ liệu đó. Thực tế, có dữ liệu và thực hiện hành động trên dữ liệu đó là đặc trưng rất cơ bản trong bất cứ phần mềm nào. Các chuyên gia về Chương trình phần mềm đã nghĩ đến việc kế hợp dữ liệu và hoạt động. Vì thế, OOP ra đời.
 

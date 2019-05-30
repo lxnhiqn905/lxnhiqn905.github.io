@@ -17,7 +17,7 @@ JVM là một máy ảo cung cấp môi trường để chạy các chương tr�
 Đầu tiên, Java code sẽ được biên dịch thành mã bytecode, mã bytecode này sẽ được JVM biên dịch thành mã máy tương ứng với từng hệ điều hành cụ thể. Giữa máy tính và source code Java, mã bytecode Java là trung gian. JVM chịu trách nhiệm phân bổ nó vào bộ nhớ máy tính để thực thi.
 
 # Kiến trúc JVM
-![Kiến trúc JVM](./images/java-virtual-machine-jvm.png)
+![Kiến trúc JVM](./images/java-virtual-machine-jvm-1.png)
 
 ## 1. ClassLoader
 Class Loader là một hệ thống con được sử dụng để tải các file .class - được biên dịch từ file .java. Nó thực hiện 3 nhiệm vụ chính: Tải file class(Loading), Liên kết(Linking) và Khởi tạo(Initialization)
@@ -62,13 +62,13 @@ Giả định có 3 file C như sau:
 2. Method  f1 được đặt trong file a2.c
 3. Method  f2 được đặt trong file a3.c
 
-![Java code được biên dịch và thực thi như thế nào](./images/c-compiler.png)
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-2.png)
 Trình biên dịch C sẽ biên dịch 3 file .c thành mã máy tương ứng với 3 file .obj.
 
-![Java code được biên dịch và thực thi như thế nào](./images/c-linker.png)
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-3.png)
 Bước tiếp theo tích hợp các file .obj vào một file .exe với sự hỗ trợ của trình liên kết. Trình liên kết sẽ tập hợp các file .obj lại với nhau và tạo ra file .exe.
 
-![Java code được biên dịch và thực thi như thế nào](./images/c-executor.png)
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-4.png)
 
 Đến khi chương trình thực thi, trình tải chương trình sẽ tải file .exe vào RAM và thực thi chúng.
 
@@ -78,13 +78,13 @@ Giả định có 3 file Java như sau:
 2. Method  f1 được đặt trong file a2.java
 3. Method  f2 được đặt trong file a3.java
 
-![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-compiler.png)
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-5.png)
 Trình biên dịch Java sẽ biên dịch 3 file .java thành 3 file .class tương ứng, trong file .class chứa bytecode được hiểu bởi JVM. Không có sự liên kết gì ở đây. Các file được biên dịch độc lập.
 
-![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-execute-1.png)
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-6.png)
 JVM hiện diện ở RAM, trong quá trình thực thi nó sẽ dùng Class Loader để bố trí các file .class vào RAM. 
 
-![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-execute-2.png)
+![Java code được biên dịch và thực thi như thế nào](./images/java-virtual-machine-jvm-7.png)
 Tiếp theo, bytecode trong file .class sẽ được biên dịch thành mã máy tương ứng để thực thi. Quá trình này gọi là Just-in-time compiler (JIT), đây là lý do tại sao Java tương đối chậm.
 
 NOTE: JIT or Just-in-time compiler là một phần của JVM, nó biên dịch bytecode của chức năng tương ứng cùng lúc thực thi.
