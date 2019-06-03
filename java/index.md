@@ -33,7 +33,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 
 [How to Design A Class?](./class-va-object-trong-java-oop.md)
 
-[Arrays](./)
+[Arrays](./arrays-trong-java.md)
 
 [How to Create Array of Objects in Java](./)
 
