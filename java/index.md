@@ -35,7 +35,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 
 [Arrays](./arrays-trong-java.md)
 
-[How to Create Array of Objects in Java](./)
+[How to Create Array of Objects in Java](./arrays-cua-object-trong-java.md)
 
 [How to use ArrayList in Java](./)
 
