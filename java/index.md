@@ -48,7 +48,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 
 [String charAt() Method](./string-charat-method-trong-java.md)
 
-[String compareTo() Method in Java](./)
+[String compareTo() Method in Java](./string-compareto-method-trong-java.md)
 
 [String contains() Method](./)
 

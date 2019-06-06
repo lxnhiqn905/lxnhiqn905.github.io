@@ -15,12 +15,12 @@ public int indexOf(int cha)
 ```
 ## Parameters:
 ```java
-**cha** − a character.
+cha − a character.
 ```
 
 ## Return Value:
 ```java
-Method này trả về chỉ mục xuất hiện đầu tiên của ký tự được chỉ đinh bên trong chuỗi String. Nó trả về **-1** nếu ký tự đó không xuất hiện trong chuỗi.
+Method này trả về chỉ mục xuất hiện đầu tiên của ký tự được chỉ đinh bên trong chuỗi String. Nó trả về -1 nếu ký tự đó không xuất hiện trong chuỗi.
 ```
 
 ## Các biến thể:

@@ -13,7 +13,7 @@ public char charAt(int index)
 ```
 ## Parameters:
 ```java
-**index** – Met này chỉ chấp nhận một tham số đơn với kiểu dữ liệu là số nguyên.
+index – Method này chỉ chấp nhận một tham số đơn với kiểu dữ liệu là số nguyên.
 ```
 
 ## Return Value:
