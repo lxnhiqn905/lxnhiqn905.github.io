@@ -40,13 +40,13 @@ Nội dung khóa học được biên dịch từ guru99.com.
 [How to use ArrayList in Java](./arraylist-trong-java.md)
 
 ## 4. Java String Tutorial
-[Java Strings - Stuff You Must Know!](./)
+[Java Strings - Stuff You Must Know!](./string-trong-java.md)
 
-[String Length() Method](./)
+[String Length() Method](./string-length-method-trong-java.md)
 
-[String indexOf() Method](./)
+[String indexOf() Method](./string-indexof-method-trong-java.md)
 
-[String charAt() Method](./)
+[String charAt() Method](./string-charat-method-trong-java.md)
 
 [String compareTo() Method in Java](./)
 
