@@ -5,9 +5,6 @@ description: Method String indexOf() trong Java với ví dụ.
 ---
 
 # Method String indexOf() trong Java là gì ?
-Chức năng này được dùng để lấy độ dài của một Java String. Method String length trả về số ký tự được viết trong chuỗi String. Method này trả về độ dài của bất kỳ String nào mà bằng số ký tự 16-bit Unicode có trong chuỗi.
-
-
 Method indexOf được sử dụng để lấy giá trị số nguyên của một chỉ mục cụ thể của một đối tượng String, dựa trên chỉ định trong tham số của method indexOf.
 Một tình huống phổ biến có thể là khi system admin muốn tìm chỉ mục của ký tự **@** của một email id của một khách hàng và sau đó muốn lấy các chuỗi con còn lại. Trong tình huống đó, method indexOf được sử dụng.
 
@@ -43,7 +40,6 @@ Method này trả về chỉ mục của ký tự đầu tiên của sự xuất
 
 
 ## Ví dụ:
-Trong chương trình này, chúng ta có 2 String, và chúng ta tìm ra độ dài của chúng bằng cách sử dụng method length().
 ```java
 public class Sample_String {
     public static void main(String args[]) {
