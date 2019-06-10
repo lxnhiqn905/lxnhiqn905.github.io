@@ -58,7 +58,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 
 [Java String toLowercase() and toUpperCase() Methods](./string-tolowercase-method-trong-java.md)
 
-[How to convert a Java String to Integer ?](./)
+[How to convert a Java String to Integer ?](./string-chuyen-doi-thanh-integer-trong-java.md)
 
 [Working with HashMaps in Java](./)
 
