@@ -50,13 +50,13 @@ Nội dung khóa học được biên dịch từ guru99.com.
 
 [String compareTo() Method in Java](./string-compareto-method-trong-java.md)
 
-[String contains() Method](./)
+[String contains() Method](./string-contains-method-trong-java.md)
 
-[String endsWith() Method](./)
+[String endsWith() Method](./string-endsWith-method-trong-java.md)
 
-[Java String replace(), replaceFirst() and replaceAll() Method](./)
+[Java String replace(), replaceFirst() and replaceAll() Method](./string-replace-method-trong-java.md)
 
-[Java String toLowercase() and toUpperCase() Methods](./)
+[Java String toLowercase() and toUpperCase() Methods](./string-tolowercase-method-trong-java.md)
 
 [How to convert a Java String to Integer ?](./)
 
