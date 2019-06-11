@@ -60,7 +60,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 
 [How to convert a Java String to Integer ?](./string-chuyen-doi-thanh-integer-trong-java.md)
 
-[Working with HashMaps in Java](./)
+[Working with HashMaps in Java](./hashmap-trong-java.md)
 
 ## 5. Most Misunderstood Topics!
 [Command Line Arguments](./)
