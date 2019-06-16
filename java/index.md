@@ -68,7 +68,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 [“this” keyword](./this-keyword-trong-java.md)
 
 ## 6. Java Memory Management
-[Garbage Collection](./)
+[Garbage Collection](./garbage-collection-trong-java.md)
 
 [Static variable](./)
 
