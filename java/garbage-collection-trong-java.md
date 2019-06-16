@@ -80,7 +80,7 @@ int b;
     s3.showData();
 ```
 
-**Step 8**: Ở bước này, không còn tham chiếu nào đến đối tượng và đã đủ điều kiện để **Garbage Collection** xử lý. Đối tượng sẽ được loại khỏi bộ nhớ và không có các nào để lấy lại.
+**Step 8**: Ở bước này, không còn tham chiếu nào đến đối tượng và đã đủ điều kiện để **Garbage Collection** xử lý. Đối tượng sẽ được loại khỏi bộ nhớ và không có các nào để lấy lại. Lỗi *java.lang.NullPointerException** sẽ xuất hiện.
 
 ![Garbage Collection trong Java](./images/java-garbage-collection-4.png)
 
