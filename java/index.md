@@ -63,9 +63,9 @@ Nội dung khóa học được biên dịch từ guru99.com.
 [Working with HashMaps in Java](./hashmap-trong-java.md)
 
 ## 5. Most Misunderstood Topics!
-[Command Line Arguments](./)
+[Command Line Arguments](./command-line-arguments-trong-java.md)
 
-[“this” keyword](./)
+[“this” keyword](./this-keyword-trong-java.md)
 
 ## 6. Java Memory Management
 [Garbage Collection](./)
