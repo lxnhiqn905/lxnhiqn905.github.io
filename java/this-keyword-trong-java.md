@@ -68,7 +68,7 @@ Làm thế nào để trình biên dịch xác định được khi nào thì n�
 
 ![Từ khóa THIS trong Java](./images/java-this-keyword-9.png)
 
-Đúng vậy,  trình biên dịch sẽ tự động nhầm thêm vào instance biến từ khóa **THIS** như hình sau:
+Đúng vậy,  trình biên dịch sẽ tự động ngầm thêm vào instance biến từ khóa **THIS** như hình sau:
 
 ![Từ khóa THIS trong Java](./images/java-this-keyword-10.png)
 
@@ -82,7 +82,7 @@ Trong khi object 2 gọi đến method sendData, một biến tham chiếu đế
 
 Quá trình này sẽ được xử lý bởi chính compiler, bạn không cần phải thêm từ khóa **THIS** một cách rõ ràng ngoại trừ trường hợp ngoại lệ như trong ví dụ của chúng tôi.
 
-#Ví dụ: Để hiểu về từ khóa THIS
+# Ví dụ: Để hiểu về từ khóa THIS
 **Step 1**: Copy đoạn mã sau vào notepad:
 ```java
 class Account{
