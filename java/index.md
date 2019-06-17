@@ -72,7 +72,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 
 [Static variable](./static-variable-methods-trong-java.md)
 
-[Stack & Heap](./)
+[Stack & Heap](./stack-heap-trong-java.md)
 
 ## 7. Abstract Class & Interface
 [Inheritance in Java OOPs with Example](./)
