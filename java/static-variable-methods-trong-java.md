@@ -23,8 +23,8 @@ Biến static trong Java là biến thuộc về class, được khởi tạo m�
 # Method static trong Java là gì ?
 Static method trong Java là method thuộc về class, không thuộc về đối tượng. Một method static chỉ có thể truy cập data static.
 - Nó là một method thuộc về class, không thuộc về object(instance)
-- Một method static chỉ có thể truy cập data static. Nó không thể truy cập data non-static(biến instance)
-- Một method static chỉ có thể gọi bởi các method static khác, và không thể gọi các method không static khác.
+- Một method static chỉ có thể truy cập biến static. Nó không thể truy cập biến non-static(biến instance)
+- Một method static chỉ có thể gọi bởi các method static khác, và không thể gọi các method non-static khác.
 - Một method static có thể được gọi trực tiếp từ class mà không cần bất cứ object nào.
 - Một method static thì không thể tham chiếu đến **this** và **super**
 ## Cú pháp:
@@ -116,7 +116,7 @@ class Test{
 }
 ```
 
-Một block static nó giúp khởi tạo các biến static thành viên, nó giống như contructor giúp khởi tạo giá trị cho biến instance
+**Block static** nó giúp khởi tạo các **biến static** trong class, nó giống như **contructor** giúp khởi tạo giá trị cho **biến instance**
 
 Tham khảo ví dụ bên dưới để hiểu về static block
 
