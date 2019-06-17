@@ -75,7 +75,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 [Stack & Heap](./stack-heap-trong-java.md)
 
 ## 7. Abstract Class & Interface
-[Inheritance in Java OOPs with Example](./)
+[Inheritance in Java OOPs with Example](./ke-thua-trong-java-oops.md)
 
 [Polymorphism in Java OOPs with Example](./)
 
