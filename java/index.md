@@ -70,7 +70,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 ## 6. Java Memory Management
 [Garbage Collection](./garbage-collection-trong-java.md)
 
-[Static variable](./)
+[Static variable](./static-variable-methods-trong-java.md)
 
 [Stack & Heap](./)
 
