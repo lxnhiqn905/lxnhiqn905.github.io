@@ -79,7 +79,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 
 [Polymorphism in Java OOPs with Example](./da-hinh-trong-java-oops.md)
 
-[Abstract Class Method](./)
+[Abstract Class Method](./abstract-trong-java-oops.md)
 
 [Interface](./)
 
