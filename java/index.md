@@ -77,7 +77,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 ## 7. Abstract Class & Interface
 [Inheritance in Java OOPs with Example](./ke-thua-trong-java-oops.md)
 
-[Polymorphism in Java OOPs with Example](./)
+[Polymorphism in Java OOPs with Example](./da-hinh-trong-java-oops.md)
 
 [Abstract Class Method](./)
 
