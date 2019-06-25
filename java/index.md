@@ -81,7 +81,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 
 [Abstract Class Method](./abstract-trong-java-oops.md)
 
-[Interface](./)
+[Interface](./interface-trong-java.md)
 
 [Interface vs Abstract Class in Java: What's the Difference?](./)
 
