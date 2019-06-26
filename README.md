@@ -14,4 +14,4 @@ Java learning path
 - https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html
 
 MOOC
-- https://mooc.fi/
+- https://mooc.fi/en/
