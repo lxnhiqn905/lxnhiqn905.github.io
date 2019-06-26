@@ -6,3 +6,9 @@
 - https://refactoring.guru/
 - https://sourcemaking.com/
 - https://beginnersbook.com
+
+Learning English
+- https://learnenglish.britishcouncil.org/
+
+Java learning path
+- https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html
