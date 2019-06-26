@@ -16,5 +16,6 @@ Java learning path
 MOOC
 - https://mooc.fi/en/
 
-Test
+Course
 - https://www.pluralsight.com/role-iq/java-developer
+- https://www.lynda.com/learning-paths/Developer/become-a-java-programmer
