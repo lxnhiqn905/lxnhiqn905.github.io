@@ -83,7 +83,7 @@ Nội dung khóa học được biên dịch từ guru99.com.
 
 [Interface](./interface-trong-java.md)
 
-[Interface vs Abstract Class in Java: What's the Difference?](./)
+[Interface vs Abstract Class in Java: What's the Difference?](./interface-va-abstract-class-trong-java.md)
 
 ## 8. Better Late than Never
 [Constructors](./)
