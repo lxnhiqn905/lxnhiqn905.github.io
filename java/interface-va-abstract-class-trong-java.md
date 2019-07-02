@@ -22,9 +22,4 @@ Abstract class khong thể được kế thừa.
 - Nó giúp tạo những kết nối
 - Nó giúp bạn tách phần định nghĩa method ra khỏi phần triển khai của các cấp kế thừa
 
-
-
-
-
-
 [Back](./)
