@@ -19,3 +19,9 @@ MOOC
 
 Course
 - https://www.linkedin.com/learning/paths/become-a-java-programmer
+
+Doing
+- https://www.youtube.com/watch?v=b42CJ0r-1to&list=PLE0F6C1917A427E96
+
+Will Doing
+- https://www.eduonix.com/dashboard
