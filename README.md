@@ -20,7 +20,6 @@
 
 ## Learning các công nghệ web khác
 - https://www.eduonix.com/dashboard
-- https://www.linkedin.com/learning/paths/ => Kiểm tra lại, nếu không cần thì bỏ đi
 
 ## Ôn tập Java cơ bản - Follow Java learning path
 - https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html
