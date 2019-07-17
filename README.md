@@ -1,30 +1,59 @@
-# Giới thiệu
+# ===========================================
+# Learning planing
+# ===========================================
 
-
-# Liên kết
-Tutorials and Books
-- https://www.guru99.com
-- https://refactoring.guru/
-- https://sourcemaking.com/
-- https://beginnersbook.com
-
-Learning English
+## Learning English
 - https://learnenglish.britishcouncil.org/
 
-Java learning path
+## Learning Java Web - Follow javaBrains
+### jsps-and-servlets
+- 
+### Maven project
+
+### Struts 2
+
+### Spring FW
+
+
+## Learning Spring FW
+- https://spring.io/projects/spring-framework
+
+## Learning các công nghệ web khác
+- https://www.eduonix.com/dashboard
+- https://www.linkedin.com/learning/paths/ => Kiểm tra lại, nếu không cần thì bỏ đi
+
+## Ôn tập Java cơ bản - Follow Java learning path
 - https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html
 
-MOOC
-- https://mooc.fi/en/
+## Learning in future 
+### Design parttern
+- https://sourcemaking.com/
 
-Course
-- https://www.linkedin.com/learning/paths/become-a-java-programmer
+### Refactoring sourcecode
+- https://refactoring.guru/
 
-Doing
-- https://www.youtube.com/watch?v=b42CJ0r-1to&list=PLE0F6C1917A427E96
+### Development process and Testing
+- https://www.guru99.com
 
-Will Doing
-- https://www.eduonix.com/dashboard
+## Tutorials For Beginners
+- https://beginnersbook.com/
 
-Spring
-- https://spring.io/projects/spring-framework
+## Books:
+### [JAVA][Learn Java for Web Development].pdf
+- https://github.com/lxnhiqn905/book/blob/master/%5BJAVA%5D%5BLearn%20Java%20for%20Web%20Development%5D.pdf
+
+
+# ===========================================
+# Timelines
+# ===========================================
+
+## Learning Java Web - Follow javaBrains
+### jsps-and-servlets
+- [Finished] https://github.com/lxnhiqn905/jsps-and-servlets
+
+## Books:
+### [JAVA][Learn Java for Web Development].pdf
+- [In-Progress] https://github.com/lxnhiqn905/book/blob/master/%5BJAVA%5D%5BLearn%20Java%20for%20Web%20Development%5D.pdf
+
+
+
