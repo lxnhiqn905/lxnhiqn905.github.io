@@ -1,6 +1,6 @@
-# ===========================================
+# ===================================
 # Learning planing
-# ===========================================
+# ===================================
 
 ## Learning English
 - https://learnenglish.britishcouncil.org/
@@ -43,9 +43,9 @@
 - https://github.com/lxnhiqn905/book/blob/master/%5BJAVA%5D%5BLearn%20Java%20for%20Web%20Development%5D.pdf
 
 
-# ===========================================
+# ===================================
 # Timelines
-# ===========================================
+# ===================================
 
 ## Learning Java Web - Follow javaBrains
 ### jsps-and-servlets
