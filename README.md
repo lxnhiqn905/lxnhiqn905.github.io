@@ -57,7 +57,7 @@
 - [Finished] https://github.com/lxnhiqn905/maven-project
 
 ### Struts 2
-- [In-Progress] 
+- [In-Progress] https://github.com/lxnhiqn905/struts-2
 
 ## Books:
 ### [JAVA][Learn Java for Web Development].pdf
