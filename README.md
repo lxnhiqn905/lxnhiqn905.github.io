@@ -6,6 +6,7 @@
 - https://learnenglish.britishcouncil.org/
 
 ## Learning Java Web - Follow javaBrains
+
 ### jsps-and-servlets
 - https://www.youtube.com/watch?v=b42CJ0r-1to&list=PLE0F6C1917A427E96
 
@@ -28,6 +29,7 @@
 - https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html
 
 ## Learning in future 
+
 ### Design parttern
 - https://sourcemaking.com/
 
@@ -41,6 +43,7 @@
 - https://beginnersbook.com/
 
 ## Books:
+
 ### [JAVA][Learn Java for Web Development].pdf
 - https://github.com/lxnhiqn905/book/blob/master/%5BJAVA%5D%5BLearn%20Java%20for%20Web%20Development%5D.pdf
 
@@ -50,6 +53,7 @@
 # ===================================
 
 ## Learning Java Web - Follow javaBrains
+
 ### jsps-and-servlets
 - [Finished] https://github.com/lxnhiqn905/jsps-and-servlets
 
@@ -60,6 +64,7 @@
 - [In-Progress] https://github.com/lxnhiqn905/struts-2
 
 ## Books:
+
 ### [JAVA][Learn Java for Web Development].pdf
 - [In-Progress] https://github.com/lxnhiqn905/book/blob/master/%5BJAVA%5D%5BLearn%20Java%20for%20Web%20Development%5D.pdf
 
