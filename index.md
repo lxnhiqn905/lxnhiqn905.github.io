@@ -4,7 +4,7 @@ title: Tự học lập trình
 description: Ghi chú về quá trình tự học lập trình
 ---
 # Giới thiệu
-Đây là trang cá nhân, ghi chú quá trình tự học lập trình, kiến thức trong trang này được biên dịch từ Guru99
+Đây là trang cá nhân, ghi chú quá trình tự học lập trình, kiến thức trong trang này được tổng hợp ở nhiều trang. [Link](../README.md)
 
 # Nội dung
 [Tự học Java](./java).
