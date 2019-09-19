@@ -18,6 +18,8 @@
 
 ### Spring FW
 
+### Thinking
+- https://runestone.academy/runestone/books/published/thinkcspy/index.html
 
 ## Learning Spring FW
 - https://spring.io/projects/spring-framework
