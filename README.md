@@ -21,6 +21,9 @@
 ### Thinking
 - https://runestone.academy/runestone/books/published/thinkcspy/index.html
 
+### ML
+- https://developers.google.com/machine-learning/crash-course
+
 ## Learning Spring FW
 - https://spring.io/projects/spring-framework
 
