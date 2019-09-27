@@ -23,6 +23,7 @@
 
 ### ML
 - https://developers.google.com/machine-learning/crash-course
+- https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 
 ## Learning Spring FW
 - https://spring.io/projects/spring-framework
