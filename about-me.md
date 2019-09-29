@@ -1,21 +1,3 @@
-# Giới thiệu
-
-## Thông tin chung:
-- LÊ XUÂN NHÌ - Nam - 28T
-- Quê quán: Quảng Nam
-
-## Công viêc
-- Java Web Developer
-
-## Tính cách
-- Tính tình hòa đồng vui vẻ - đôi lúc có chút suy tư cho riêng mình.
-- Luôn muốn học hỏi những cái mới cái hay
-- Trách nhiệm với công việc
-
-## Sở thích
-- Đọc sách
-- Cầu lông - đi bộ
-
 # Kỹ năng công việc
 
 ## Front-End Web Development
@@ -52,20 +34,6 @@
 - [6/10] Báo cáo - Thuyết trình 
 - [6/10] Giải viết vấn đề nhanh
 - [6/10] Kỹ năng research tốt
-
-# Kinh nghiệm
-
-## Quá trình học tập - làm việc
-- 2010 - 2012: Aptect-Softect Đà Nẵng
-- 2012 - Now: FPT Software Đà Nẵng
-
-## Các dự án đã trải qua
-1. Dòng dự án phát triển hệ thống quản lý trường đại học
-2. Dự án với khách hàng Nhật Bản chuyên cung cấp dịch vụ **Matching Service**
-
-## Các dự án cá nhân khác
-- Cửa hàng giặt là HACHIKO
-- Lẩu COMBO
 
 [Back to home](./).
 
