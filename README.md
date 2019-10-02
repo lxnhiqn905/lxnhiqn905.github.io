@@ -36,6 +36,9 @@
 
 ## Learning in future 
 
+### Software Design
+- https://www.freecodecamp.org/news/software-design/
+
 ### Design parttern
 - https://sourcemaking.com/
 
