@@ -1,2 +1,2 @@
-# My CV
+# CV
 - https://www.topcv.vn/p/lxnhiqn905
