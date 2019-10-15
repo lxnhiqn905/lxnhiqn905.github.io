@@ -24,3 +24,6 @@
 
 # gradle
 - https://github.com/lxnhiqn905/gradle-project
+
+# design-patterns
+- https://github.com/lxnhiqn905/java-design-patterns
