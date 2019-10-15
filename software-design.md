@@ -1,3 +1,6 @@
+# Principles
+- https://github.com/lxnhiqn905/programming-principles
+
 # Software Design
 - https://www.freecodecamp.org/news/software-design/
 
@@ -6,3 +9,5 @@
 
 # Refactoring sourcecode
 - https://refactoring.guru/
+
+
